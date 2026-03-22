@@ -1,12 +1,20 @@
 {
   "name": "lead-prospector",
   "description": "B2B lead prospecting plugins by Deepdigits",
+  "owner": {
+    "name": "Deepdigits",
+    "email": ""
+  },
   "plugins": [
     {
       "name": "lead-prospector",
       "version": "0.1.0",
       "description": "B2B lead qualification and enrichment pipeline. Claude + Apollo + LeadMagic.",
-      "source": "."
+      "source": {
+        "source": "github",
+        "repo": "Deepdigits-tech/lead-prospector",
+        "ref": "main"
+      }
     }
   ]
 }
