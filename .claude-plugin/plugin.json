@@ -1,0 +1,11 @@
+{
+  "name": "lead-prospector",
+  "version": "0.1.0",
+  "description": "B2B lead qualification and enrichment pipeline. Claude researches companies, Apollo finds contacts, LeadMagic verifies and enriches. Replaces Firecrawl + OpenAI with Claude-native research.",
+  "author": {
+    "name": "Hamed",
+    "email": ""
+  },
+  "keywords": ["sales", "leads", "prospecting", "enrichment", "apollo", "leadmagic", "b2b", "gtm"],
+  "license": "MIT"
+}
